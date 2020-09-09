@@ -1,0 +1,11 @@
+*****************************************************************
+name : HF 3rd band equalizer  
+*****************************************************************
+
+target  : windows 16 and 32 bit
+descr   : shareware software, process audio wave files with real time monitoring.
+install : requires win32s if running 32 version in 16 bits env
+version : beta.07
+modification 06 - 0.7 look improvement under windows 95, small bug fix 
+date	  : may 8th 1996
+author  : Nicolas Witczak
